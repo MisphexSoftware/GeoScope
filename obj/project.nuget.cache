@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVvl++9ShzQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\disco\\source\\repos\\GeoScope\\GeoScope.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\disco\\.nuget\\packages\\geoutils\\1.0.0\\geoutils.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
